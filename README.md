@@ -2,7 +2,7 @@
 
 ### 🎮 Aspiring Tech QA & Game Developer | CS Student @ Vistula
 
-I am a Computer Science student based in Warsaw, Poland, with a strong passion for the gaming industry. My focus is on **Quality Assurance Automation**, tool development, and game mechanics. I love building scripts that optimize routine tasks and exploring how complex game systems work under the hood.
+I am a Computer Science student based in Warsaw, Poland, with a strong passion for the gaming industry.
 
 ---
 
@@ -20,17 +20,7 @@ I am a Computer Science student based in Warsaw, Poland, with a strong passion f
 
 ---
 
-### 🚀 Featured Projects
-
-* [**Aegis-Assistant-v1**](https://github.com/larelgit/Aegis-Assistant-v1) — A Dota 2 assistant that captures Game State Integration (GSI) data and serves ML-driven hints to a minimal Tauri overlay.
-* [**Jira Auto-Reporter**](https://github.com/larelgit/jira-auto-reporter) — A CLI tool written in Python that allows QA engineers to create bug reports and attach logs directly from the terminal via Jira REST API v2.
-* [**GitHub Profile Parser**](https://github.com/larelgit/GithubProfileParser) — A CLI utility for fetching and displaying GitHub user profiles right from the terminal using Java.
-
----
-
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykyta-dudarenko-7186ba346/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anonymous007nd@gmail.com)
-
-📈 *Always eager to learn new things and tackle complex bugs!*
