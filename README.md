@@ -1,6 +1,6 @@
 # Hi there, I'm Mykyta! 👋
 
-### 🎮 Aspiring Tech QA & Game Developer | CS Student @ PJATK
+### 🎮 Aspiring Tech QA & Game Developer | CS Student @ Vistula
 
 I am a Computer Science student based in Warsaw, Poland, with a strong passion for the gaming industry. My focus is on **Quality Assurance Automation**, tool development, and game mechanics. I love building scripts that optimize routine tasks and exploring how complex game systems work under the hood.
 
@@ -30,7 +30,7 @@ I am a Computer Science student based in Warsaw, Poland, with a strong passion f
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ТУТ_ССЫЛКА_НА_ТВОЙ_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твой_реальный_email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykyta-dudarenko-7186ba346/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anonymous007nd@gmail.com)
 
 📈 *Always eager to learn new things and tackle complex bugs!*
