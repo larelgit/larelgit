@@ -14,11 +14,13 @@ I am a Computer Science student based in Warsaw, Poland, with a strong passion f
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **GameDev & QA:** ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
+![GameCI](https://img.shields.io/badge/GameCI-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02303A?style=for-the-badge&logo=postman&logoColor=white)
-![GameCI](https://img.shields.io/badge/GameCI-000000?style=for-the-badge&logo=githubactions&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+
 
 ---
 
