@@ -1,8 +1,10 @@
 # Hi there, I'm Mykyta! 👋
 
-### 🎮 Aspiring Tech QA & Game Developer | CS Student @ Vistula
+### 🚀 QA Embedded Engineer Intern @ Xperi (TiVo) | CS Student @ Vistula
 
-I am a Computer Science student based in Warsaw, Poland, with a strong passion for the gaming industry.
+I am a Computer Science student based in Warsaw, Poland. I don't just play games—I look under the hood. Currently, I am leveling up my hardware and software testing skills as an intern at **Xperi (TiVo)**, while maintaining a strong passion for automation and the gaming industry.
+
+🏢 **Organization:** Proud member of [@tivocorp](https://github.com/tivocorp)
 
 ---
 
@@ -19,8 +21,6 @@ I am a Computer Science student based in Warsaw, Poland, with a strong passion f
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02303A?style=for-the-badge&logo=postman&logoColor=white)
-
-
 
 ---
 
