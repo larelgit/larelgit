@@ -23,5 +23,4 @@ I work in QA on a smart TV platform (embedded Linux), focusing on Python test au
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykyta-dudarenko-7186ba346/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anonymous007nd@gmail.com)
