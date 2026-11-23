@@ -1,8 +1,8 @@
 # Hi there, I'm Mykyta! 👋
 
-### 🚀 QA Automation Engineer  | Python · Playwright · Embedded Linux
+### 🚀 QA Automation Developer  | Python · Playwright · Embedded Linux
 
-I work in QA on a smart TV platform (embedded Linux), focusing on Python test automation
+I work in QA
 
 ---
 
